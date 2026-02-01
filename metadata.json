@@ -1,0 +1,5 @@
+{
+  "name": "E-MMI SMK Penambang",
+  "description": "A digital teacher presence monitoring system (Melindungi Masa Instruksional) designed for SMK Penambang Kota Bharu, featuring real-time record entry and an administrative dashboard with AI insights.",
+  "requestFramePermissions": []
+}
